@@ -9,8 +9,7 @@
     Database: MongoDB
     Version Control: Git, GitHub
 
-🚀 Currently working on: [Brief description of current projects or interests]
-
 🌟 Always eager to collaborate on innovative projects and contribute to the open-source community. Let’s connect and create something awesome together!
 
-📫 Feel free to reach out: [Your Email or LinkedIn]
+📫 Feel free to reach out- Email: jarjav2005@gmail.com
+                            Mobile No: 9717946763
