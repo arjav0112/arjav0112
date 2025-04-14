@@ -6,6 +6,7 @@
 
     Frontend: React, HTML, CSS, JavaScript
     Backend: Node.js, Express.js
+    ML: TensorFlow, Keras, Python
     Database: MongoDB
     Version Control: Git, GitHub
 
