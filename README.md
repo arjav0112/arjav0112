@@ -1,6 +1,6 @@
-👋 Hi there! I’m Arjav Jain, a passionate Web Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js).
+👋 Hi there! I’m Arjav Jain, an AI Developer & Automation Enthusiast passionate about building intelligent systems and automating complex workflows.
 
-💻 With a knack for building dynamic, user-friendly web applications, I love turning complex problems into elegant, functional solutions. Whether it's crafting seamless front-end experiences or optimizing back-end performance, I'm always excited to dive into new challenges.
+💡 My primary focus is on AI frameworks and automation — leveraging tools like LangChain, RAG, and n8n to design solutions that connect multiple AI agents, streamline processes, and make technology more accessible. I enjoy experimenting with deep learning architectures (LSTMs, RNNs, Encoder-Decoder models, Transformers) and applying them to real-world challenges.
 
 🔧 Skills:
 
@@ -12,7 +12,9 @@
     Backend:- Node.js, express
     Version Control :- Git, Github
 
-🌟 Always eager to collaborate on innovative projects and contribute to the open-source community. Let’s connect and create something awesome together!
+🌟 My vision is to bring together AI + automation to create smarter applications that solve problems in innovative ways. Web development remains a supporting tool in my toolkit, helping me deliver complete end-to-end solutions.
 
-📫 Feel free to reach out- Email: jarjav2005@gmail.com
+📚 Beyond coding, I enjoy reading books and exploring ideas that expand my perspective.
+
+📫 Feel free to reach out- Email: arjavjain051021@gmail.com
                             , Mobile No: 9717946763
