@@ -4,11 +4,13 @@
 
 🔧 Skills:
 
-    Frontend: React, HTML, CSS, JavaScript
-    Backend: Node.js, Express.js
-    ML: TensorFlow, Keras, Python
-    Database: MongoDB
-    Version Control: Git, GitHub
+    AI Frameworks - Langchain , RAG, n8n
+    Deep Learning:- LSTM RNN , encoder-decoder, Transformers
+    Programming :- Python, C, C++
+    Database:- MongoDB, MYSQL
+    Frontend:- React, javascript ,html
+    Backend:- Node.js, express
+    Version Control :- Git, Github
 
 🌟 Always eager to collaborate on innovative projects and contribute to the open-source community. Let’s connect and create something awesome together!
 
