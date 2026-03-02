@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  [cite_start]I'm a dedicated <b>AI Developer</b> specializing in intelligent automation and full-stack solutions. [cite: 4] <br/> 
-  [cite_start]Currently pursuing my B.Tech at <b>MAIT, Delhi</b>, I focus on building scalable systems with RAG and multi-agent workflows. [cite: 7, 8, 5]
+  I'm a dedicated <b>AI Developer</b> specializing in intelligent automation and full-stack solutions.<br/> 
+  Currently pursuing my B.Tech at <b>MAIT, Delhi</b>, I focus on building scalable systems with RAG and multi-agent workflows.
 </div>
 
 <br/>
@@ -16,15 +16,15 @@
     <td valign="top" width="50%">
       <h3>Hi, I'm Arjav!</h3>
       <p>
-        [cite_start]I'm an <b>AI Developer</b> with a passion for deep learning and automation. [cite: 4] 
-        [cite_start]With experience as an AI Intern at <b>Infosys Springboard</b>, I specialize in deploying enterprise-level AI systems. [cite: 22, 24]
+        I'm an <b>AI Developer</b> with a passion for deep learning and automation.
+        With experience as an AI Intern at <b>Infosys Springboard</b>, I specialize in deploying enterprise-level AI systems.
       </p>
       <p>
-        - [cite_start]🔭 I’m currently working on <b>Intelligent Retrieval Systems</b> [cite: 26] <br>
-        - [cite_start]📚 I’m focusing on <b>Transformers and Encoder-Decoder Models</b> [cite: 16] <br>
-        - [cite_start]🚀 I’m a <b>Microsoft Code Genesis Hackathon Finalist</b> [cite: 38] <br>
-        - [cite_start]💬 Ask me about <b>LangChain, RAG, and MERN</b> [cite: 16, 18] <br>
-        - [cite_start]📫 Reach me at: <b>arjavjain051021@gmail.com</b> [cite: 2]
+        - 🔭 I’m currently working on <b>Intelligent Retrieval Systems</b> <br>
+        - 📚 I’m focusing on <b>Transformers and Encoder-Decoder Models</b> <br>
+        - 🚀 I’m a <b>Microsoft Code Genesis Hackathon Finalist</b> <br>
+        - 💬 Ask me about <b>LangChain, RAG, and MERN</b> <br>
+        - 📫 Reach me at: <b>arjavjain051021@gmail.com</b>
       </p>
     </td>
     <td valign="top" width="50%">
@@ -50,14 +50,14 @@
 
 ### Featured Work
 
-* [cite_start]**Intelligent Photo Scanner**: An on-device ML system for document indexing using OCR and Computer Vision. [cite: 26, 28]
-* [cite_start]**Multi-Agent Automation**: AI Telegram bot orchestrating Google Gemini, Gmail, and Calendar APIs via n8n. [cite: 30, 31]
-* [cite_start]**TradePro**: A full-stack MERN trading platform featuring real-time market data. [cite: 33, 34, 36]
+* **Intelligent Photo Scanner**: An on-device ML system for document indexing using OCR and Computer Vision.
+* **Multi-Agent Automation**: AI Telegram bot orchestrating Google Gemini, Gmail, and Calendar APIs via n8n.
+* **TradePro**: A full-stack MERN trading platform featuring real-time market data.
 
 ### Achievements
 
-* [cite_start]**Top 15 Finalist**: Microsoft Code Genesis Hackathon (Aashwasan Escrow App). [cite: 38, 39]
-* [cite_start]**LeetCode**: Solved 250+ problems, demonstrating strong algorithmic skills. [cite: 40]
+* **Top 15 Finalist**: Microsoft Code Genesis Hackathon (Aashwasan Escrow App).
+* **LeetCode**: Solved 250+ problems, demonstrating strong algorithmic skills.
 
 <br/>
 
